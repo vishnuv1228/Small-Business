@@ -1,0 +1,117 @@
+* {
+	font-family:Garamond;
+}
+}
+#left {
+	float:left;
+	margin-left:5px;
+}
+#right {
+	float:right;
+	margin-top:-47px;
+}
+#navbar ul li {
+	display:inline-block;
+	margin-right:45px;
+
+}
+#navbar #left ul li {
+	font-weight:bold;
+	font-size:18px;
+}
+#middle {
+	text-align:center;
+	background-image: url('http://plusmood.com/wp-content/uploads/2009/07/Power-Office-i29-interior-architects-plusmood-01.jpg');
+	height:450px;
+	width:1500px;
+	margin:auto;
+	margin-top:370px;
+}
+#text {
+	margin-top:-350px;
+	margin-left:50px;
+	text-align:center;
+}
+#text1 {
+	color:black;
+	font-weight:bold;
+	font-size:40px;
+}
+#text2 {
+	color:black;
+	margin-top:-25px;
+}
+.box2 {
+  display: inline-block;
+  width: 250px;
+  height: 100px;
+  margin: 80px;
+  text-align:center;
+}
+#footer {
+	margin-top:-90px;
+	margin-left:190px;
+}
+.btn {
+	 display: inline-block;
+ 	 padding: 12px 24px;
+	margin-top:-20px;
+	margin-left:50px;
+  	font-size: 14px;
+  	font-weight: normal;
+  	line-height: 1.42857143;
+  	text-align: center;
+  	white-space: nowrap;
+  	vertical-align: middle;
+  	cursor: pointer;
+  	-webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  	background-image: none;
+  	border: 1px solid transparent;
+  	border-radius: 4px;
+}
+.btn-info {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+}
+.btn-default {
+	color: #333;
+  	background-color: #fff;
+  	border-color: #ccc;
+}
+.btn1 {
+	 display: inline-block;
+ 	 padding: 6px 12px;
+	margin-bottom: 0;
+  	font-size: 14px;
+  	font-weight: normal;
+  	line-height: 1.42857143;
+  	text-align: center;
+  	white-space: nowrap;
+  	vertical-align: middle;
+  	cursor: pointer;
+  	-webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  	background-image: none;
+  	border: 1px solid transparent;
+  	border-radius: 4px;
+}
+.btn-default1 {
+	color: #333;
+  	background-color: #fff;
+  	border-color: #ccc;
+  	margin-left:40px;
+}
+#form {
+	margin-left:60px;
+	font-weight:bold;
+	color:black;
+}
+button {
+  
+}
